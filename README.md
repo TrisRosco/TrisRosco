@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My name is Tristan!
+
+I'm full stack developer looking to hone my coding skills!
+
+I have experience in: Javascript ☕ | React ⚡ | Node 📗 | CSS 🎨 | HTML 📝 | Express 🚅 | SQL 📚
+
 <!--
 **TrisRosco/TrisRosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
