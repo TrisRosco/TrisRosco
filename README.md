@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### My name is Tristan!
+### Hello, my name's Tristan!
 
 I'm full stack developer looking to hone my coding skills!
 
