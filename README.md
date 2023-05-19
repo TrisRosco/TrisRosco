@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/TrisRosco">
-    <img src="https://img.shields.io/badge/codewars-orange?style=for-the-badge&logo=codewars&logoColor=orange" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/codewars-orange?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
 </div>
 
