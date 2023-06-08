@@ -12,7 +12,7 @@
 I'm full stack developer looking to hone my coding skills!
 
 I have experience in: Javascript ☕ | Typescript ⌨️ | React ⚡ | Node 📗 | CSS 🎨 | HTML 📝 | Express 🚅 | SQL 📚
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trisrosco&count_private=truea&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
