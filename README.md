@@ -22,6 +22,7 @@ I'm a full-stack developer and Video Editor.
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML%205-494949?style=flat-square&logo=html5">
   <img alt="Express" src="https://img.shields.io/badge/-Express-494949?style=flat-square&logo=express">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-494949?style=flat-square&logo=postgresql">
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-494949?style=flat-square&logo=Jest">
   <img alt="Git" src="https://img.shields.io/badge/-Git-494949?style=flat-square&logo=git">
 </div>
 
