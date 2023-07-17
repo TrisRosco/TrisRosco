@@ -1,17 +1,36 @@
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/tristan-roscorla-16961326b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/TrisRosco">
-    <img src="https://img.shields.io/badge/codewars-orange?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
 </div>
 
-### Hello, my name's Tristan!
+# Hello, I'm Tristan!
 
-I'm full stack developer looking to hone my coding skills!
+I'm a full-stack developer and Video Editor.
 
-I have experience in: Javascript ☕ | Typescript ⌨️ | React ⚡ | Node 📗 | CSS 🎨 | HTML 📝 | Express 🚅 | SQL 📚
+## What I know:
+
+<div align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-494949?style=flat-square&logo=javascript">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-494949?style=flat-square&logo=typescript">
+  <img alt="React" src="https://img.shields.io/badge/-React-494949?style=flat-square&logo=React">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node-494949?style=flat-square&logo=node.js">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS%203-494949?style=flat-square&logo=css3">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML%205-494949?style=flat-square&logo=html5">
+  <img alt="Express" src="https://img.shields.io/badge/-Express-494949?style=flat-square&logo=express">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-494949?style=flat-square&logo=postgresql">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-494949?style=flat-square&logo=git">
+</div>
+
+## What I'm Learning:
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C%23-494949?style=flat-square&logo=Csharp">
+</div>
+
+
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trisrosco&count_private=truea&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
