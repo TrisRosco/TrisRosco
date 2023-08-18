@@ -9,7 +9,7 @@
 
 # Hello, I'm Tristan!
 
-I'm a full-stack developer and Video Editor.
+I'm a full-stack developer with a background in web video production!
 
 ## What I know:
 
