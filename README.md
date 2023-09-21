@@ -29,6 +29,7 @@ I'm a full-stack developer with a background in web video production!
 ## What I'm Learning:
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/-C%23-494949?style=flat-square&logo=Csharp">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C%23-494949?style=flat-square&logo=C++">
   <img alt="Static Badge" src="https://img.shields.io/badge/-AWS-494949?style=flat-square&logo=amazonaws">
 </div>
 
