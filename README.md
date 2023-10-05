@@ -1,3 +1,6 @@
+
+<img src="https://i.imgur.com/pEYFQXy.png" alt="Profile"/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/tristan-roscorla-16961326b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -6,8 +9,6 @@
     <img src="https://img.shields.io/badge/codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
 </div>
-
-<img src="https://i.imgur.com/pEYFQXy.png" alt="Profile"/>
 
 ## What I know:
 
