@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/toPK54U.png" alt="Profile"/>
+<img src="https://i.imgur.com/wg7Tfuf.png" alt="Profile"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tristan-roscorla-16961326b/">
