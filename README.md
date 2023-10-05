@@ -7,9 +7,7 @@
   </a>
 </div>
 
-# Hello, I'm Tristan!
-
-I'm a full-stack developer with a background in web video production!
+<img src="https://i.imgur.com/pEYFQXy.png" alt="Profile"/>
 
 ## What I know:
 
