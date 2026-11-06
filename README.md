@@ -25,12 +25,11 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-494949?style=flat-square&logo=git">
 </div>
 
-## What I'm Learning:
-<div align="center">
+<!-- <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/-C%23-494949?style=flat-square&logo=Csharp">
   <img alt="Static Badge" src="https://img.shields.io/badge/-C++-494949?style=flat-square&logo=C++">
   <img alt="Static Badge" src="https://img.shields.io/badge/-AWS-494949?style=flat-square&logo=amazonaws">
-</div>
+</div> -->
 
 
 <!-- 
